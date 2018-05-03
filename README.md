@@ -15,7 +15,7 @@ Codes
    b. Data Cleaning
    c. Categorical Dummy Variable creation
    d. Imputation, Principal Component Analysis and Similarity measures
-   d. Models - Variants of Gradient Boosting, Random Forests, K-nearest neighbors and support vector machines
+   e. Models - Variants of Gradient Boosting, Random Forests, K-nearest neighbors and support vector machines
    
 Results
 1. A PPT is attached that describes data extraction, analysis of descriptive statistics, feature engineering and error rates of predictive models.

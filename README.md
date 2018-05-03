@@ -4,13 +4,13 @@ This is the capstone project that is executed as part of the program requirement
 Data
 1. The data has been scraped off real estate websites. Given that the nature of scraping is confidential, the respective python codes are not being provided. However, scraping is executed using Scrapy and Crawlera.
 2. The data is scraped across 9 markets (4 small and 5 large), the details of which are available in the project PPT. 
-3. The data is categorized as - 
+3. The data is categorized as:
    a. Property characteristics
    b. Rent (dependent variable)
    c. Zip code characteristics
    
 Codes
-1.  Python codes used for predicting rents are categorized and made available
+1.  Python codes used for predicting rents are categorized and made available:
    a. Data merging
    b. Data Cleaning
    c. Categorical Dummy Variable creation

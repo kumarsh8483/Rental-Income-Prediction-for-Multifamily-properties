@@ -9,13 +9,16 @@ Data
    b. Rent (dependent variable)
    c. Zip code characteristics
    
-Codes
-1.  Python codes used for predicting rents are categorized and made available:
+Codes & Input Files
+1. Python codes used for predicting rents are categorized and made available:
    a. Data merging
    b. Data Cleaning
    c. Categorical Dummy Variable creation
    d. Imputation, Principal Component Analysis and Similarity measures
    e. Models - Variants of Gradient Boosting, Random Forests, K-nearest neighbors and support vector machines
+2. Input Files 1.rar contains market-wise input files for the code 1a. Merge_Zillow_ZipCode.py
+3. Input Files 2.rar contains market-wise input files for the code 1b. Merge_Apartments.py
+4. Input Files 3.rar contains the merged pre-imputed dataset. It also contains stratified train and test datasets used to build predictive models.
    
 Feature Engineering Types:
 The following are the different types of independent variables that would be used to test the predictive accuracy of rental incomes

@@ -17,7 +17,7 @@ Codes
    d. Imputation, Principal Component Analysis and Similarity measures
    e. Models - Variants of Gradient Boosting, Random Forests, K-nearest neighbors and support vector machines
    
-Feature Engineering Types
+Feature Engineering Types:
 The following are the different types of independent variables that would be used to test the predictive accuracy of rental incomes
    1. Rents of top 30 properties weighted by their similarity score
    2. Rents of top 30 properties (unweighted)

@@ -21,10 +21,10 @@ Feature Engineering Types:
 The following are the different types of independent variables that would be used to test the predictive accuracy of rental incomes
    1. Rents of top 30 properties weighted by their similarity score
    2. Rents of top 30 properties (unweighted)
-   3. Log scaled rents of top 30 properties (dep var also transformed)
-   4. Rents of top 30 properties as % of median rent in the zip code (dep var also transformed)
-   5. Rents of top 30 properties as % of mean of top 30 properties (dep var also transformed)
-   6. Combination of 4 & 5 (dep var also transformed)
+   3. Log scaled rents of top 30 properties (dependent variable also transformed)
+   4. Rents of top 30 properties as % of median rent in the zip code (dependent variable also transformed)
+   5. Rents of top 30 properties as % of mean of top 30 properties (dependent variable also transformed)
+   6. Combination of 4 & 5 (dependent variable also transformed)
 
 Results
 1. A PPT is attached that describes data extraction, analysis of descriptive statistics, feature engineering and error rates of predictive models.
